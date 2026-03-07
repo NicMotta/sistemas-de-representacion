@@ -7,6 +7,8 @@
 
 [Acceso EVAED](https://eva.una.edu.ar/login/index.php)
 
+[Nic Motta - Web](https://nicmotta.github.io/)
+
 **Mi email:**
 [nicmottas@gmail.com](mailto:nicmottas@gmail.com)
 
@@ -20,4 +22,4 @@ Miércoles 25/03 **NO hay clase presencial**
 
 **Tarea:** Ver videos del aula virtual y preparar los materiales.
 
-**Próxima clase presencial Miercoles 1 de abri**
+**Próxima clase presencial Miercoles 1 de abril**
