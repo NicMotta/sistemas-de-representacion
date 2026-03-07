@@ -12,6 +12,8 @@
 **Mi email:**
 [nicmottas@gmail.com](mailto:nicmottas@gmail.com)
 
+---
+
 ### Clase 18/03 - Primera clase - Presentación
 
 Llenar el [formulario](https://forms.gle/7raw1ExgMydyWXWR7) con un mail que usen de forma periódica para estar comunicados entre nosotros.
