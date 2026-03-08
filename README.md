@@ -2,6 +2,8 @@
 ## **Cátedra De Piero**
 ### **Docente Nic Motta**
 
+---
+
 ### Links útiles:
 
 [Ir al Formulario de emails para comunicación](https://forms.gle/7raw1ExgMydyWXWR7)
