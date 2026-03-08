@@ -1,4 +1,3 @@
-# Sistemas de Representación I
 ## **Cátedra De Piero**
 ### **Docente Nic Motta**
 
