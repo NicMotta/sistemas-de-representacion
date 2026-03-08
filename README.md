@@ -1,11 +1,12 @@
 # Sistemas de Representación I
-## **Cátedra De Piero | Docente Nic Motta**
+## **Cátedra De Piero**
+### **Docente Nic Motta**
 
 ### Links útiles:
 
 [Ir al Formulario de emails para comunicación](https://forms.gle/7raw1ExgMydyWXWR7)
 
-[Acceso EVAED](https://eva.una.edu.ar/login/index.php)
+[Acceso EVAed](https://eva.una.edu.ar/login/index.php)
 
 [Nic Motta - Web](https://nicmotta.github.io/)
 
@@ -18,10 +19,10 @@
 
 Llenar el [formulario](https://forms.gle/7raw1ExgMydyWXWR7) con un mail que usen de forma periódica para estar comunicados entre nosotros.
 
-Revisar el [EVAED](https://eva.una.edu.ar/login/index.php), las pestañas *“Información general”* y *“Guía de trabajos prácticos”*
+Revisar el [EVAed](https://eva.una.edu.ar/login/index.php), las pestañas *“Información general”* y *“Guía de trabajos prácticos”*
 
 Miércoles 25/03 **NO hay clase presencial**
 
 **Tarea:** Ver videos del aula virtual y preparar los materiales.
 
-**Próxima clase presencial Miercoles 1 de abril**
+**Próxima clase presencial:** Miercoles 1 de abril
